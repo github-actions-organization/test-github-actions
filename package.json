@@ -1,7 +1,7 @@
 {
-  "name": "@sanderv1992/test-github-actions",
+  "name": "@sanderv1992/test-github-actions-magic",
   "version": "1.0.0",
-  "description": "@sanderv1992/test-github-actions",
+  "description": "@sanderv1992/test-github-actions-magic",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
