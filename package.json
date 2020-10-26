@@ -1,7 +1,7 @@
 {
-  "name": "@promotion-social-networks/sharec-node-library-typescript-boilerplate",
+  "name": "sharec-node-library-typescript-boilerplate",
   "version": "1.0.0",
-  "description": "@promotion-social-networks/sharec-node-library-typescript-boilerplate",
+  "description": "sharec-node-library-typescript-boilerplate",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
