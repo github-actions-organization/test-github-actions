@@ -1,7 +1,7 @@
 {
-  "name": "sharec-node-library-typescript-boilerplate",
+  "name": "@sanderv1992/test-github-actions",
   "version": "1.0.0",
-  "description": "sharec-node-library-typescript-boilerplate",
+  "description": "@sanderv1992/test-github-actions",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
