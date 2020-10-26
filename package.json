@@ -1,0 +1,21 @@
+{
+  "name": "@promotion-social-networks/sharec-node-library-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "@promotion-social-networks/sharec-node-library-typescript-boilerplate",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "postinstall": "sharec --overwrite"
+  },
+  "files": [
+    "configs"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "sharec": "2.5.1"
+  },
+  "peerDependencies": {
+    "sharec": "2.5.*"
+  }
+}
