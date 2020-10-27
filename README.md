@@ -1,1 +1,1 @@
-# @promotion-social-networks/sharec-node-library-typescript-boilerplate
+# @github-actions-organization/test-github-actions

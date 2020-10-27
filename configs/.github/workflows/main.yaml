@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@promotion-social-networks'
+          scope: '@github-actions-organization'
 
       - run: npm ci
         env:
