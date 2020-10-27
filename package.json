@@ -1,7 +1,8 @@
 {
-  "name": "@sanderv1992/test-github-actions-magic",
+  "name": "@github-actions-organization/test-github-actions",
   "version": "1.0.0",
-  "description": "@sanderv1992/test-github-actions-magic",
+  "private": true,
+  "description": "@github-actions-organization/test-github-actions",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
@@ -13,7 +14,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "sharec": "2.5.1"
+    "sharec": "2.5.2"
   },
   "peerDependencies": {
     "sharec": "2.5.*"
